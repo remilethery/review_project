@@ -1,4 +1,4 @@
-places = ['Numbai', 'San Francisco', 'California', 'Florida']
+places = ['Numbai', 'San Francisco', 'California', 'Florida', 'Vesoul', 'Vierzon']
 
 print(places)
 print(sorted(places))
